@@ -1,0 +1,15 @@
+Package: com.gonepaul.longmanplugins
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: GonePaul
+Depends: mobilesubstrate
+Filename: ./com.gonepaul.longmanplugins_1.0.0_iphoneos-arm64.deb
+Size: 34526
+MD5sum: 4e04a8eccbad0848ba68f60a83d76a5b
+SHA1: 81fbd4f0baab4e59cd9a6ce42baa58593ac609ee
+SHA256: 873d9d075ae5f711d45b2cc7dd5a1649b7cdeaad99748c875245509b9208e338
+Section: Tweaks
+Description: Plugin pack for Longman Dictionary App (personal use)
+Author: GonePaul
+Name: Longman Plugins Pack
+
