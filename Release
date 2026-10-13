@@ -1,0 +1,18 @@
+Origin: Longman Plugins Pack
+Label: Longman Plugins
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Personal rootless tweak repo for Longman Dictionary
+MD5Sum:
+ 1a6f38b049d7195a45e3044fc87f1db9 493 Packages
+ b236fdd75e0968f45596e74e863db3a3 359 Packages.gz
+ 5d2efee103973da5cd18f46a9773c23a 386 Packages.bz2
+ ee51fb7508998fa03ea3e7d55dfc1d93 436 Packages.xz
+SHA256:
+ fedba2b2b5a6bb2097acf6d9fa0f24d13e4db6bcdc73ae4ff2e2e73198990650 493 Packages
+ 717bbf80a4a31c68233211f2a27573342b49b949ea6ce24778524654d266c497 359 Packages.gz
+ 955d689d01a41f60a656102c567708b2fdc985169484365bddd889fef1445592 386 Packages.bz2
+ 6e7ebf66ca913ca825f947fa2d8a79bf0d900ac23d9affb3c08c236e1e6f691e 436 Packages.xz
