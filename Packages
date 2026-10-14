@@ -15,7 +15,7 @@ Name: Longman Plugins Pack
 
 Package: cc.minis.keyboardai
 Name: Minis Keyboard AI
-Version: 0.2.2
+Version: 0.2.3
 Architecture: iphoneos-arm64
 Description: Independent keyboard AI assistant for Dopamine rootless iOS 16.
 Maintainer: Minis
@@ -23,10 +23,10 @@ Author: Minis
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Installed-Size: 232
-Filename: ./MinisKeyboardAI_0.2.2_iphoneos-arm64.deb
-Size: 84686
-MD5sum: 6f1765f1abab3ff9ee7a82428d864129
-SHA1: 61522f02682c69606a997fb8b8ef09bfe62109d6
-SHA256: 7bae45a6354a823c2ed43471da91d5630e8a82ba414ba00b5562359669a2f82b
+Filename: ./MinisKeyboardAI_0.2.3_iphoneos-arm64.deb
+Size: 84498
+MD5sum: f1f569c893bc67704ebebef4f06a6110
+SHA1: 3125fa56e1b64c29618f6e76b8cf2637d8be3b0b
+SHA256: f3ea260d409c493a39bf1a6fad96cbc9799882bcdd4c36dded3f4341c0d36fa0
 Depiction: https://GP1250409.github.io/longman-repo/keyboard-ai.html
 
