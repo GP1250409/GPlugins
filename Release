@@ -7,12 +7,12 @@ Architectures: iphoneos-arm64
 Components: main
 Description: Personal rootless tweak repo for Longman Dictionary
 MD5Sum:
- 5d7f498c00b51d266b8229b69083d627 1096 Packages
- 4bd26349f88fb814cc33149f0db816be 631 Packages.gz
- 53b05faf820ef7619fbbda0df7f411f5 694 Packages.bz2
- 1d4e0d3ddd11e57bd68d6a2673dc55c6 720 Packages.xz
+ 3aba64ee414f57e5d27c9b6079ee8453 1096 Packages
+ e2cbfcf915d09eeaae66379198453ded 631 Packages.gz
+ 8501f7d6d27c2d59b90074c8eba43e84 697 Packages.bz2
+ 21b276135d3e265c2144bfe4ba587c68 720 Packages.xz
 SHA256:
- 6901c5d03dd5377f86855cc35263017fd8b576b71e5d1ef584873c172c82bc00 1096 Packages
- 4ef54dcfbbf365e960180111a4fc9820ee99c22237a0a15567191d7eee3dfd14 631 Packages.gz
- 98add4f92444a1313088fc643ae760407fd6f5eed81ae6837c4ff65c0d2b58cc 694 Packages.bz2
- 68a0692cbce751ad8b8915c123b63435d7bcf23282b32662e00c7053ddb7f90b 720 Packages.xz
+ 04e25dff9de68e4a94b94ac732ac0337bfb8988f184933d6fb4c029e4079b513 1096 Packages
+ 593f2993ae09fa4be1ff28afd724cd7e495fe830401ba08249f21fef8825d0fa 631 Packages.gz
+ a5b6f07bd066ab451dc9dfa80de724c3422ebbee3c7f0ae5d934d0f56351d300 697 Packages.bz2
+ b90e51564b25e52012b9f2dbc28b654ff094dd0150eee61ab7c714b8a40b0f8f 720 Packages.xz
