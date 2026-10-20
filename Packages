@@ -30,3 +30,19 @@ SHA1: dec012b7e821e115ac4b26be2ed9082ac2a28194
 SHA256: 73ba951631c317d66854bcc97cc62bdd089b777022eececc33e34e411fdd139c
 Depiction: https://GP1250409.github.io/longman-repo/keyboard-ai.html
 
+Package: cc.gonepaul.eudicearlyheader
+Name: Eudic Early Header (LM5)
+Version: 0.3.0
+Architecture: iphoneos-arm64e
+Description: Stop the flash when opening LM5 entries in Eudic: hide host head and pin banner safe-area padding before first paint.
+Maintainer: GonePaul
+Author: GonePaul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate
+Installed-Size: 100
+Filename: ./cc.gonepaul.eudicearlyheader_0.3.0_iphoneos-arm64e.deb
+Size: 10344
+MD5sum: d1c450be916555e0512dd3e635cafae4
+SHA1: 9a34f36498d196233d72105023739f6e1531e1cd
+SHA256: c1379d48d5b9dffe218ce5449e0f0ce1d1fe9b101f06a3a79ff9f6d54169cfc6
+

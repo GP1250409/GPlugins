@@ -3,17 +3,17 @@ Label: Longman Plugins
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Thu, 15 Oct 2026 00:31:26 UTC
+Date: Tue, 20 Oct 2026 01:37:09 UTC
 Architectures: iphoneos-arm64
 Components: main
 Description: Personal rootless tweak repo for Longman Dictionary
 MD5Sum:
- 3771f5dfa532024518916b46c09d04cb 1098 Packages
- e997aa86987915357d86f979b202b5ce 632 Packages.gz
- 22a6e506e75c5bdc56924f0a9d7f12e2 694 Packages.bz2
- 90694b34d21c647a1faf56da763652b1 720 Packages.xz
+ 75f9665502ad20e41c8313f0caed4ed7 1693 Packages
+ 067cb8d9db53f1635b0a8b72c1485d0f 880 Packages.gz
+ c24c77b6118381b3a280608acefd3698 962 Packages.bz2
+ 0a4fec30226d01871f781b528af2e9a5 972 Packages.xz
 SHA256:
- 463e0bf345ebd54d0576c8c8cfeeec14b7b862bdbe1a9e7b2f4db5a66575ca52 1098 Packages
- c2043d960f7c98f916983b84da661928373330cfe4794c4695c02a0a4e58f1a8 632 Packages.gz
- bea50845cc1172a3c1615baadcdd99bf5999803b9663137b9409457f8c984716 694 Packages.bz2
- 8a6f55da91e4483c6d990e572b78a98032c3dcd35215746497d20ef6a66291e3 720 Packages.xz
+ 55655b748b184d0dc42302dbd74ff61877f529a0d693a2416c880a3edab513a5 1693 Packages
+ d9924d222e1fae51d687f7d586a094e0d8570e7820db4b4b33b64adebe06e3a3 880 Packages.gz
+ 0000b1527243d0d3bb3cb245e2e94842203dc2f188cffbdf0fc7ff634569e756 962 Packages.bz2
+ cb26d5415c1a2aaf1754e172d9b4703d642bfd662e7bd9c4c4970fa5a4768008 972 Packages.xz
