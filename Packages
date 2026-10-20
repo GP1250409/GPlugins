@@ -32,7 +32,7 @@ Depiction: https://GP1250409.github.io/longman-repo/keyboard-ai.html
 
 Package: cc.gonepaul.eudicearlyheader
 Name: Eudic Early Header (LM5)
-Version: 0.3.0
+Version: 0.3.2
 Architecture: iphoneos-arm64e
 Description: Stop the flash when opening LM5 entries in Eudic: hide host head and pin banner safe-area padding before first paint.
 Maintainer: GonePaul
@@ -40,15 +40,15 @@ Author: GonePaul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate
 Installed-Size: 100
-Filename: ./cc.gonepaul.eudicearlyheader_0.3.0_iphoneos-arm64e.deb
-Size: 10344
-MD5sum: d1c450be916555e0512dd3e635cafae4
-SHA1: 9a34f36498d196233d72105023739f6e1531e1cd
-SHA256: c1379d48d5b9dffe218ce5449e0f0ce1d1fe9b101f06a3a79ff9f6d54169cfc6
+Filename: ./cc.gonepaul.eudicearlyheader_0.3.2_iphoneos-arm64e.deb
+Size: 10868
+MD5sum: d0451463eabfa3b145b7824a60c16da6
+SHA1: 1f13e41f636eceda2e7f71317aa2b8a810cde747
+SHA256: cf69a53ca04474a85fcbbb317f81f998157236b29d063474a2cdd7a04e4ea983
 
 Package: cc.gonepaul.eudicearlyheader.rootless
 Name: Eudic Early Header (LM5, rootless)
-Version: 0.3.0
+Version: 0.3.2
 Architecture: iphoneos-arm64
 Description: Stop the flash when opening LM5 entries in Eudic: hide host head and pin banner safe-area padding before first paint. Rootless build.
 Maintainer: GonePaul
@@ -57,9 +57,8 @@ Section: Tweaks
 Depends: ellekit | mobilesubstrate
 Conflicts: cc.gonepaul.eudicearlyheader
 Installed-Size: 100
-Filename: ./cc.gonepaul.eudicearlyheader.rootless_0.3.0_iphoneos-arm64.deb
-Size: 10296
-MD5sum: 69655a0ac0c931fd12bbb6971eb5ebe0
-SHA1: 156a62e4cae1bdc6e0b70ee69f59083d630a853e
-SHA256: 9e91059ef67f59a9df273e06886413109b82a9b491f814c46a867181d980fe2f
-
+Filename: ./cc.gonepaul.eudicearlyheader.rootless_0.3.2_iphoneos-arm64.deb
+Size: 10812
+MD5sum: 284e3a98415fa6ad696c1e9cbb5cfcc1
+SHA1: 5932ffc98542493cdfede048d49e761bf0a46a7e
+SHA256: 012b1e97958cdf8540bd3e5e4daba05b6e72b2e6593fbcb47720e31bd501bb3f
