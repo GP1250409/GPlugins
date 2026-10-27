@@ -1,0 +1,21 @@
+{
+  "version": "1.0.2",
+  "package": "com.gonepaul.longmanplugins",
+  "dylibs": [
+    "LongmanButtonsAlign.dylib",
+    "LongmanFloatMenu.dylib",
+    "LongmanFreqCard.dylib",
+    "LongmanHeadPhon.dylib",
+    "LongmanHideBanner.dylib",
+    "LongmanHideFooter.dylib",
+    "LongmanSyllableToggle.dylib",
+    "LongmanTabFix8.dylib"
+  ],
+  "original_7_plugins_unchanged": true,
+  "added_banner_sha256": "d2a0beffd6ed29e312cd7778a9e0e11005721f53f061e209ad52477adb5b4c55",
+  "deb_bytes": 36236,
+  "deb_sha256": "2feecc1040914ab27e0b84ba941d15087e504a05bd363e9e8560074d218a5a90",
+  "unrelated_index_stanzas_preserved": true,
+  "installed": false,
+  "jailbreak_banner_runtime_tested": false
+}

@@ -1,17 +1,18 @@
 Package: com.gonepaul.longmanplugins
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: GonePaul
-Depends: mobilesubstrate
-Filename: ./com.gonepaul.longmanplugins_1.0.1_iphoneos-arm64.deb
-Size: 34612
-MD5sum: 5d161b6269d2cd3f6c492b3f0d35271a
-SHA1: 83497046153e771d86bedc4ca3bbe13cbc7e80b3
-SHA256: 6e88453b3c4db9ef8f8da1d192d0d621898d207cae9a4d4e5cf0bbd6ed705f06
-Section: Tweaks
-Description: Plugin pack for Longman Dictionary App (personal use)
-Author: GonePaul
 Name: Longman Plugins Pack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Plugin pack for Longman Dictionary App (personal use)
+Maintainer: GonePaul
+Author: GonePaul
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 540
+Filename: ./com.gonepaul.longmanplugins_1.0.2_iphoneos-arm64.deb
+Size: 36236
+MD5sum: 0367acc89452525b879797b1493833b2
+SHA1: 2d27d94b811e262861b457dbf257091c48388dd4
+SHA256: 2feecc1040914ab27e0b84ba941d15087e504a05bd363e9e8560074d218a5a90
 
 Package: cc.minis.keyboardai
 Name: Minis Keyboard AI
