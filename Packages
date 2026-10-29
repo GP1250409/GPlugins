@@ -75,7 +75,7 @@ Recommends: com.opa334.ccsupport
 Conflicts: com.jontelang.bigshotsnapper3plugin
 Replaces: com.jontelang.bigshotsnapper3plugin
 Description: Auto scroll-and-stitch screenshots for RootHide iOS 16 arm64e. Snapper 3 and CCSupport; tap screen to stop. Silent, 0.8s per screen, no stop banner.
-Depiction: https://gp1250409.github.io/longman-repo/bigshot-rh.html
+Depiction: https://gp1250409.github.io/GPlugins/bigshot-rh.html
 Filename: ./BigShotRH_0.1.5_iphoneos-arm64e-roothide.deb
 Size: 26616
 MD5sum: 65e3968a82172270ca57f124a13cbb66
@@ -93,7 +93,7 @@ Depends: ellekit | mobilesubstrate
 Recommends: com.opa334.ccsupport
 Conflicts: com.jontelang.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin, com.gonepaul.bigshotrh
 Description: Dopamine Rootless iOS 16 arm64; not RootHide. Auto scroll, 0.8s per screen, tap to stop, silent, no stop banner. Runtime testing pending.
-Depiction: https://gp1250409.github.io/longman-repo/bigshot-rootless.html
+Depiction: https://gp1250409.github.io/GPlugins/bigshot-rootless.html
 Filename: ./BigShot_0.1.5_iphoneos-arm64-rootless.deb
 Size: 26464
 MD5sum: d5c4199ee8f79e84ece94bcc32d8d5d7
