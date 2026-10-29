@@ -32,7 +32,7 @@ SHA256: 73ba951631c317d66854bcc97cc62bdd089b777022eececc33e34e411fdd139c
 Depiction: https://GP1250409.github.io/longman-repo/keyboard-ai.html
 
 Package: cc.gonepaul.eudicearlyheader
-Name: 欧路原生信息栏隐藏
+Name: 欧路原生信息栏隐藏 (RootHide)
 Version: 0.4.0
 Architecture: iphoneos-arm64e
 Maintainer: Paul
@@ -48,7 +48,7 @@ SHA1: 5a149ebdd0abcd2579713aaf540f7c0f71e0a4f6
 SHA256: 0ed3e4d7dedef2d37329c93e0300d3a315a434688b30d8285cc8517941519f6e
 
 Package: cc.gonepaul.eudicearlyheader.rootless
-Name: 欧路原生信息栏隐藏
+Name: 欧路原生信息栏隐藏 (Rootless)
 Version: 0.4.0
 Architecture: iphoneos-arm64
 Maintainer: Paul
