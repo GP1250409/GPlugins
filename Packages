@@ -65,7 +65,7 @@ SHA256: f472f3d8e9e058a3e30bb9dbbcdf1d19162df85108afd3d536be49f5f8567a88
 
 Package: com.gonepaul.bigshotrh
 Name: BigShot 长截图(RootHide)
-Version: 0.1.5
+Version: 0.1.6
 Architecture: iphoneos-arm64e
 Maintainer: Paul
 Author: Paul (based on jontelang/BigShotJbSnapper3Plugin)
@@ -74,13 +74,13 @@ Depends: ellekit | mobilesubstrate
 Recommends: com.opa334.ccsupport
 Conflicts: com.jontelang.bigshotsnapper3plugin
 Replaces: com.jontelang.bigshotsnapper3plugin
-Description: Auto scroll-and-stitch screenshots for RootHide iOS 16 arm64e. Snapper 3 and CCSupport; tap screen to stop. Silent, 0.8s per screen, no stop banner.
+Description: Auto scroll-and-stitch screenshots for RootHide iOS 16 arm64e. Fixes duplicate navigation bars, floating buttons and tool previews in native lists such as Minis. Snapper 3 and CCSupport; tap screen to stop. Silent, 0.8s per screen.
 Depiction: https://gp1250409.github.io/GPlugins/bigshot-rh.html
-Filename: ./BigShotRH_0.1.5_iphoneos-arm64e-roothide.deb
-Size: 26616
-MD5sum: 65e3968a82172270ca57f124a13cbb66
-SHA1: 1658a7b25eb7b8f95e6e3de58d5759000e9df611
-SHA256: 6b0dfd341d90e824f087817dfa309c7171d5ff69a9ccd4df7b861bbdb9391db6
+Filename: ./BigShotRH_0.1.6_iphoneos-arm64e-roothide.deb
+Size: 27416
+MD5sum: 5a3e9ffeae815d7b795c73c244742fa4
+SHA1: 41e2fc59df8d7d139183f1bf3b811299961d9887
+SHA256: 7fb3780a4e64d81b940af82536867928cb4a53d0ccd58fc8f6618d5d0b407130
 
 Package: com.gonepaul.bigshot.rootless
 Name: BigShot 长截图 (Rootless)
@@ -99,4 +99,3 @@ Size: 26464
 MD5sum: d5c4199ee8f79e84ece94bcc32d8d5d7
 SHA1: d900e4283f4d4badb70bfdfb9eae08f2148a4e51
 SHA256: 2394a635af3f0d91b2d07c7c5adfb3f3da08ee7a595894b7a6339b906cb7b145
-
