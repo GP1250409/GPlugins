@@ -84,7 +84,7 @@ SHA256: 7fb3780a4e64d81b940af82536867928cb4a53d0ccd58fc8f6618d5d0b407130
 
 Package: com.gonepaul.bigshot.rootless
 Name: BigShot 长截图 (Rootless)
-Version: 0.1.5
+Version: 0.1.6
 Architecture: iphoneos-arm64
 Maintainer: Paul
 Author: Paul (based on jontelang/BigShotJbSnapper3Plugin)
@@ -92,10 +92,10 @@ Section: Tweaks
 Depends: ellekit | mobilesubstrate
 Recommends: com.opa334.ccsupport
 Conflicts: com.jontelang.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin, com.gonepaul.bigshotrh
-Description: Dopamine Rootless iOS 16 arm64; not RootHide. Auto scroll, 0.8s per screen, tap to stop, silent, no stop banner. Runtime testing pending.
+Description: Dopamine Rootless iOS 16 arm64; not RootHide. Fixes duplicate navigation bars, floating buttons and previews in native lists. Auto scroll, 0.8s per screen, tap to stop, silent. Rootless runtime testing pending.
 Depiction: https://gp1250409.github.io/GPlugins/bigshot-rootless.html
-Filename: ./BigShot_0.1.5_iphoneos-arm64-rootless.deb
-Size: 26464
-MD5sum: d5c4199ee8f79e84ece94bcc32d8d5d7
-SHA1: d900e4283f4d4badb70bfdfb9eae08f2148a4e51
-SHA256: 2394a635af3f0d91b2d07c7c5adfb3f3da08ee7a595894b7a6339b906cb7b145
+Filename: ./BigShot_0.1.6_iphoneos-arm64-rootless.deb
+Size: 27296
+MD5sum: 355c3385caebe90c491798ef0f006150
+SHA1: 0123e5da5937809fbad5f81136de71bda9ac143d
+SHA256: 917466d2997690e9783a0c1696cedd18056fbc65678c2bcd72abc71f668c8551
