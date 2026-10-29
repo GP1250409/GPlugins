@@ -29,9 +29,9 @@ for n, data in [('Packages', b), ('Packages.gz', gz), ('Packages.bz2', bz), ('Pa
     md5 += ' %s %d %s\n' % (hashlib.md5(data).hexdigest(), len(data), n)
     sha += ' %s %d %s\n' % (hashlib.sha256(data).hexdigest(), len(data), n)
 (r / 'Release').write_text(
-    'Origin: Longman Plugins Pack\nLabel: Longman Plugins\nSuite: stable\nVersion: 1.0\n'
+    'Origin: GPlugins\nLabel: GPlugins\nSuite: stable\nVersion: 1.0\n'
     'Codename: ios\nDate: ' + now + '\nArchitectures: iphoneos-arm64\nComponents: main\n'
-    'Description: Personal rootless tweak repo for Longman Dictionary\nMD5Sum:\n' + md5 +
+    'Description: GPlugins - Personal RootHide and Rootless tweak repository\nMD5Sum:\n' + md5 +
     'SHA256:\n' + sha)
 
 # refresh page texts (keep the full Release fields intact — learned the hard way)

@@ -1,12 +1,12 @@
-Origin: Longman Plugins Pack
-Label: Longman Plugins
+Origin: GPlugins
+Label: GPlugins
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Thu, 29 Oct 2026 19:39:18 GMT
+Date: Thu, 29 Oct 2026 19:44:15 GMT
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Personal rootless tweak repo for Longman Dictionary
+Description: GPlugins - Personal RootHide and Rootless tweak repository
 MD5Sum:
  42945c04b450bab768dde68f7ffba6ca 3934 Packages
  a1211e9f967b146dd261e0ba5b235928 1566 Packages.gz
