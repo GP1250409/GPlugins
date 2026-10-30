@@ -76,11 +76,12 @@ Conflicts: com.jontelang.bigshotsnapper3plugin
 Replaces: com.jontelang.bigshotsnapper3plugin
 Description: Auto scroll-and-stitch screenshots for RootHide iOS 16 arm64e. Fixes duplicate navigation bars, floating buttons and tool previews in native lists such as Minis. Snapper 3 and CCSupport; tap screen to stop. Silent, 0.8s per screen.
 Depiction: https://gp1250409.github.io/GPlugins/bigshot-rh.html
-Filename: ./BigShotRH_0.1.6_iphoneos-arm64e-roothide.deb
-Size: 27416
-MD5sum: 5a3e9ffeae815d7b795c73c244742fa4
-SHA1: 41e2fc59df8d7d139183f1bf3b811299961d9887
 SHA256: 7fb3780a4e64d81b940af82536867928cb4a53d0ccd58fc8f6618d5d0b407130
+Filename: ./BigShotRH_0.1.6_iphoneos-arm64e-roothide.deb
+Size: 27484
+MD5sum: 8a0424e89d0f664c554d166d85eadfb2
+SHA1: ce0d7a24324a74f291eb5fa7ed9ffd28deed67ac
+SHA256: 0144574baa83da1e434beda3446c9f9495b8ebcf0233bc1c709651fb8b59a290
 
 Package: com.gonepaul.bigshot.rootless
 Name: BigShot 长截图 (Rootless)
