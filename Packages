@@ -76,7 +76,7 @@ Conflicts: com.jontelang.bigshotsnapper3plugin
 Replaces: com.jontelang.bigshotsnapper3plugin
 Description: Auto scroll-and-stitch screenshots for RootHide iOS 16 arm64e. Fixes duplicate navigation bars, floating buttons and tool previews in native lists such as Minis. Snapper 3 and CCSupport; tap screen to stop. Silent, 0.8s per screen.
 Depiction: https://gp1250409.github.io/GPlugins/bigshot-rh.html
-SHA256: 0144574baa83da1e434beda3446c9f9495b8ebcf0233bc1c709651fb8b59a290
+SHA256: 702532715d776161fe82ccb4e3232b4ea875352bbd99082292c60ca478f22cab
 Filename: ./BigShotRH_0.1.6_iphoneos-arm64e-roothide.deb
 Size: 27372
 MD5sum: 21be3361a74774e045cf4b94b0241a14
@@ -95,9 +95,9 @@ Recommends: com.opa334.ccsupport
 Conflicts: com.jontelang.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin, com.gonepaul.bigshotrh
 Description: Dopamine Rootless iOS 16 arm64; not RootHide. Fixes duplicate navigation bars, floating buttons and previews in native lists. Auto scroll, 0.8s per screen, tap to stop, silent. Rootless runtime testing pending.
 Depiction: https://gp1250409.github.io/GPlugins/bigshot-rootless.html
-SHA256: 7748c1fdb1e2e480581c0c8a4d76d6d779be66289b24bf2e40178e566a8faeeb
-Filename: ./BigShot_0.1.6_iphoneos-arm64-rootless.deb
-Size: 27212
-MD5sum: 5bd50ec3c691f8214883d8ad61ce025c
-SHA1: 678faf011b26a0c38deb835c316fcc543d5c13c4
 SHA256: ac77972c36362ec829dc1a8d41cdf3e649edfb40e3684db291eb31a9f6f899a7
+Filename: ./BigShot_0.1.6_iphoneos-arm64-rootless.deb
+Size: 27208
+MD5sum: 456e1041d7fcd3ea47b0da4591c60fba
+SHA1: ee24c584303d262f5196f12c2895cd044cae825f
+SHA256: 90f0719e549fcb8767376fa17ec0ff307284ae0ad965b564391235397f064756
