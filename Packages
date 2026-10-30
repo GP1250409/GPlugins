@@ -95,8 +95,9 @@ Recommends: com.opa334.ccsupport
 Conflicts: com.jontelang.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin, com.gonepaul.bigshotrh
 Description: Dopamine Rootless iOS 16 arm64; not RootHide. Fixes duplicate navigation bars, floating buttons and previews in native lists. Auto scroll, 0.8s per screen, tap to stop, silent. Rootless runtime testing pending.
 Depiction: https://gp1250409.github.io/GPlugins/bigshot-rootless.html
-Filename: ./BigShot_0.1.6_iphoneos-arm64-rootless.deb
-Size: 27296
-MD5sum: 355c3385caebe90c491798ef0f006150
-SHA1: 0123e5da5937809fbad5f81136de71bda9ac143d
 SHA256: 917466d2997690e9783a0c1696cedd18056fbc65678c2bcd72abc71f668c8551
+Filename: ./BigShot_0.1.6_iphoneos-arm64-rootless.deb
+Size: 27348
+MD5sum: 40382623c7c40bafcabb06f177e510b4
+SHA1: d0f8f8ad04d137cb3c827d161b855fffcfbc7fc0
+SHA256: 7748c1fdb1e2e480581c0c8a4d76d6d779be66289b24bf2e40178e566a8faeeb

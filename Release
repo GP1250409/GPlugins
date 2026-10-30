@@ -3,22 +3,22 @@ Label: GPlugins
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Fri, 30 Oct 2026 16:13:34 GMT
+Date: Fri, 30 Oct 2026 16:18:29 GMT
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: GPlugins - Personal RootHide and Rootless tweak repository
 MD5Sum:
- cec843400e06585b745c0043a6cfeee6 4154 Packages
- d10c7a1ecae17046e9e40af1157f28f8 1679 Packages.gz
- 90c6807388bfe8175f4b76a395b37c57 1880 Packages.bz2
- ca3c6dbea71a3cb3bceef08a72ed02f2 1672 Packages.xz
+ 187c5aa13bbeb4f9e37ef132f435f64c 4227 Packages
+ ba6beab0beb07ca6b5fa2277fcc5f1a4 1724 Packages.gz
+ 0c120c93c989132cad11d988fed73d44 1911 Packages.bz2
+ 95f3d98417df119cb60793e400176508 1708 Packages.xz
 SHA1:
- 4718becb993a2f00360d3140b00eb60d08190be2 4154 Packages
- 643b2a6a56323115d653e59b82d3bc556c363e26 1679 Packages.gz
- dd4d5e057c172becdc018bbac18cb808f05e9539 1880 Packages.bz2
- c9183a598e9ca1bbe05f32ea0375cc07c0c86c9b 1672 Packages.xz
+ 8f4cc3cd588eecc9f178fadb09611a3e60b9a569 4227 Packages
+ de53783e7539bf7efe4fd312a0d8b6d94762bb41 1724 Packages.gz
+ 06d145177a51f43b7efe2a7ff5de27bc749fb5e3 1911 Packages.bz2
+ fe15149ad66c72c3519788bbb5eec372e9a2851a 1708 Packages.xz
 SHA256:
- 0c11cac3ed8bea1d5fb8220d63eb1efb30d6c1eb8cf5627584b04adf0dc01ddd 4154 Packages
- 9dfec26fdf812fba0228f23009f64d14368ca6f1e29b4e625e5f18b66d04f6ff 1679 Packages.gz
- ee410ad5706e7e9cdc3d9a7aaafee9331bf92fe199f025d39cc61eb010da37e5 1880 Packages.bz2
- d822f52eef80502ea86fa7c9f42fe7d5ef2bc7b23f342d5e8b88193d8741e82f 1672 Packages.xz
+ 10ce0cb77a1d18b223226ca4d9b1066ea2e82749d81198226dc1c7bc92a30d76 4227 Packages
+ 1fda432650aa732a55130a72f602510182ad02d04b2a04e979b927695597b3a8 1724 Packages.gz
+ ca5016fc797ed8f202ffcaac505756bc50d43af2bec682e0b028f2230ea10c30 1911 Packages.bz2
+ c418b0b0aa67203be8ff3a3e8c6e7d8cd6e8060441845cb023642f043e2cb2a3 1708 Packages.xz
