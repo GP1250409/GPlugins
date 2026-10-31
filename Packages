@@ -101,3 +101,35 @@ Size: 27208
 MD5sum: 456e1041d7fcd3ea47b0da4591c60fba
 SHA1: ee24c584303d262f5196f12c2895cd044cae825f
 SHA256: 90f0719e549fcb8767376fa17ec0ff307284ae0ad965b564391235397f064756
+
+Package: cc.gonepaul.dockflipbadge
+Name: DockFlip 角标同步 (RootHide)
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Paul
+Author: Paul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate
+Installed-Size: 100
+Description: Syncs SpringBoard app icon badges onto DockFlip extra page icons (RootHide arm64e).
+Filename: ./DockFlipBadge_0.1.0_iphoneos-arm64e-roothide.deb
+Size: 7396
+MD5sum: 5b7cc9714d865fe520f881297b15b1f5
+SHA1: 661d876d29b9cf1af1c641ec5ca37e6e3eaf20ff
+SHA256: 531f18f39235a956e3fec8e1e8fed899997e74e0d068097757a9b4f6144c3b66
+
+Package: cc.gonepaul.dockflipbadge.rootless
+Name: DockFlip 角标同步 (Rootless)
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Paul
+Author: Paul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate
+Installed-Size: 100
+Description: Syncs SpringBoard app icon badges onto DockFlip extra page icons (Dopamine Rootless arm64).
+Filename: ./DockFlipBadge_0.1.0_iphoneos-arm64-rootless.deb
+Size: 7244
+MD5sum: 3ef99b718749cb1b88f17d921fecec04
+SHA1: 20dd89f66cc3773ffd9c82628a7bdd0babfce06a
+SHA256: b2a7f8ba640d3ab193d7ddc9a3dc8516cc2d2285f6c94f14482b8a3a26d428ff
