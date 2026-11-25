@@ -149,3 +149,19 @@ Size: 9984
 MD5sum: 08eeaf2fb9290b21b8ce9c53b815286d
 SHA1: bc28be036c079431c6efa4166c8efd499577b544
 SHA256: 56b484da1a422f593c4845a299cec791b6320ea229bf4386c157c9bcd38546fc
+
+Package: cc.gonepaul.dockflipenhance.rootless
+Name: DockFlip 增强补丁 (Rootless)
+Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (Dopamine Rootless iOS 16 arm64).
+Maintainer: Paul
+Author: Paul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
+Architecture: iphoneos-arm64
+Version: 0.2.3
+Installed-Size: 204
+Filename: ./DockFlipEnhance_0.2.3_iphoneos-arm64-rootless.deb
+Size: 13188
+MD5sum: e61ec8c24c2a7e0a7141ebe1de92cd0b
+SHA1: 15bde155977fb85b1f0eb43cabc5c3e9bfc342b6
+SHA256: 6d2c1a568e560b67cc5aa6c2ca6bca3cc0cb7b909857f1c21787ffa7c0580638
