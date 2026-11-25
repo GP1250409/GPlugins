@@ -1,138 +1,20 @@
-Package: com.gonepaul.longmanplugins
-Name: Longman Plugins Pack
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Description: Plugin pack for Longman Dictionary App (personal use)
-Maintainer: GonePaul
-Author: GonePaul
-Section: Tweaks
-Version: 1.0.2
-Installed-Size: 540
-Filename: ./com.gonepaul.longmanplugins_1.0.2_iphoneos-arm64.deb
-Size: 36236
-MD5sum: 0367acc89452525b879797b1493833b2
-SHA1: 2d27d94b811e262861b457dbf257091c48388dd4
-SHA256: 2feecc1040914ab27e0b84ba941d15087e504a05bd363e9e8560074d218a5a90
-
-Package: cc.minis.keyboardai
-Name: Minis Keyboard AI
-Version: 0.4.11
-Architecture: iphoneos-arm64
-Description: Independent keyboard AI assistant for Dopamine rootless iOS 16.
-Maintainer: Minis
-Author: Minis
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Installed-Size: 300
-Filename: ./MinisKeyboardAI_0.4.11_iphoneos-arm64.deb
-Size: 161484
-MD5sum: c54ba26fbfe4ad07396e0663bb1d5928
-SHA1: dec012b7e821e115ac4b26be2ed9082ac2a28194
-SHA256: 73ba951631c317d66854bcc97cc62bdd089b777022eececc33e34e411fdd139c
-Depiction: https://GP1250409.github.io/longman-repo/keyboard-ai.html
-
-Package: cc.gonepaul.eudicearlyheader
-Name: 欧路原生信息栏隐藏 (RootHide)
-Version: 0.4.0
-Architecture: iphoneos-arm64e
-Maintainer: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate
-Description: Hide Eudic host pronunciation and rating strip globally; retain LM5 anti-jump fixes.
-Author: GonePaul
-Installed-Size: 100
-Filename: ./cc.gonepaul.eudicearlyheader_0.4.0_iphoneos-arm64e.deb
-Size: 10780
-MD5sum: ac0e52466ebaa7028dd06370b86868d4
-SHA1: 5a149ebdd0abcd2579713aaf540f7c0f71e0a4f6
-SHA256: 0ed3e4d7dedef2d37329c93e0300d3a315a434688b30d8285cc8517941519f6e
-
-Package: cc.gonepaul.eudicearlyheader.rootless
-Name: 欧路原生信息栏隐藏 (Rootless)
-Version: 0.4.0
-Architecture: iphoneos-arm64
-Maintainer: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate
-Description: Hide Eudic host pronunciation and rating strip globally; retain LM5 anti-jump fixes.
-Author: GonePaul
-Installed-Size: 100
-Filename: ./cc.gonepaul.eudicearlyheader.rootless_0.4.0_iphoneos-arm64.deb
-Size: 10736
-MD5sum: ecbd8fee8150b111c93ea011a42d6cd1
-SHA1: 7d8303fe9d71203ab15ed66f4336741b23bec0a9
-SHA256: f472f3d8e9e058a3e30bb9dbbcdf1d19162df85108afd3d536be49f5f8567a88
-
-Package: com.gonepaul.bigshotrh
-Name: BigShot 长截图(RootHide)
-Version: 0.1.6
-Architecture: iphoneos-arm64e
-Maintainer: Paul
-Author: Paul (based on jontelang/BigShotJbSnapper3Plugin)
-Section: Tweaks
-Depends: ellekit | mobilesubstrate
-Recommends: com.opa334.ccsupport
-Conflicts: com.jontelang.bigshotsnapper3plugin
-Replaces: com.jontelang.bigshotsnapper3plugin
-Description: Auto scroll-and-stitch screenshots for RootHide iOS 16 arm64e. Fixes duplicate navigation bars, floating buttons and tool previews in native lists such as Minis. Snapper 3 and CCSupport; tap screen to stop. Silent, 0.8s per screen.
-Depiction: https://gp1250409.github.io/GPlugins/bigshot-rh.html
-SHA256: 702532715d776161fe82ccb4e3232b4ea875352bbd99082292c60ca478f22cab
-Filename: ./BigShotRH_0.1.6_iphoneos-arm64e-roothide.deb
-Size: 27372
-MD5sum: 21be3361a74774e045cf4b94b0241a14
-SHA1: cf521f6089a363878aa9583fa6ef846403c54373
-SHA256: 702532715d776161fe82ccb4e3232b4ea875352bbd99082292c60ca478f22cab
-
-Package: com.gonepaul.bigshot.rootless
-Name: BigShot 长截图 (Rootless)
-Version: 0.1.6
-Architecture: iphoneos-arm64
-Maintainer: Paul
-Author: Paul (based on jontelang/BigShotJbSnapper3Plugin)
-Section: Tweaks
-Depends: ellekit | mobilesubstrate
-Recommends: com.opa334.ccsupport
-Conflicts: com.jontelang.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin, com.gonepaul.bigshotrh
-Description: Dopamine Rootless iOS 16 arm64; not RootHide. Fixes duplicate navigation bars, floating buttons and previews in native lists. Auto scroll, 0.8s per screen, tap to stop, silent. Rootless runtime testing pending.
-Depiction: https://gp1250409.github.io/GPlugins/bigshot-rootless.html
-SHA256: ac77972c36362ec829dc1a8d41cdf3e649edfb40e3684db291eb31a9f6f899a7
-Filename: ./BigShot_0.1.6_iphoneos-arm64-rootless.deb
-Size: 27208
-MD5sum: 456e1041d7fcd3ea47b0da4591c60fba
-SHA1: ee24c584303d262f5196f12c2895cd044cae825f
-SHA256: 90f0719e549fcb8767376fa17ec0ff307284ae0ad965b564391235397f064756
-
-Package: cc.gonepaul.dockflipbadge
-Name: DockFlip 角标同步 (RootHide)
-Version: 0.1.0
-Architecture: iphoneos-arm64e
+Package: cc.gonepaul.dockflipenhance.rootless
+Name: DockFlip 增强补丁 (Rootless)
+Description: All-in-one DockFlip enhancement for Dopamine Rootless iOS 16 arm64: native badge sync, bidirectional infinite dock paging, Plus landscape vertical Dock support, native SBIconView Quick Actions menu, and AppData / Choicy support.
 Maintainer: Paul
 Author: Paul
 Section: Tweaks
-Depends: ellekit | mobilesubstrate
-Installed-Size: 100
-Description: Syncs SpringBoard app icon badges onto DockFlip extra page icons (RootHide arm64e).
-Filename: ./DockFlipBadge_0.1.0_iphoneos-arm64e-roothide.deb
-Size: 7396
-MD5sum: 5b7cc9714d865fe520f881297b15b1f5
-SHA1: 661d876d29b9cf1af1c641ec5ca37e6e3eaf20ff
-SHA256: 531f18f39235a956e3fec8e1e8fed899997e74e0d068097757a9b4f6144c3b66
-
-Package: cc.gonepaul.dockflipbadge.rootless
-Name: DockFlip 角标同步 (Rootless)
-Version: 0.1.0
+Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
+Conflicts: cc.gonepaul.dockflipbadge.rootless
+Replaces: cc.gonepaul.dockflipbadge.rootless
 Architecture: iphoneos-arm64
-Maintainer: Paul
-Author: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate
-Installed-Size: 100
-Description: Syncs SpringBoard app icon badges onto DockFlip extra page icons (Dopamine Rootless arm64).
-Filename: ./DockFlipBadge_0.1.0_iphoneos-arm64-rootless.deb
-Size: 7244
-MD5sum: 3ef99b718749cb1b88f17d921fecec04
-SHA1: 20dd89f66cc3773ffd9c82628a7bdd0babfce06a
-SHA256: b2a7f8ba640d3ab193d7ddc9a3dc8516cc2d2285f6c94f14482b8a3a26d428ff
+Version: 0.3.3
+Installed-Size: 272
+Filename: debs/DockFlipEnhance_0.3.3_iphoneos-arm64-rootless.deb
+Size: 24266
+MD5sum: 8cb6041941a92c31739855cf3414fc50
+SHA1: 8b0ef9134222431b155866a297dfb85f97d8c3ae
+SHA256: ff1971c656f6c4399e5999cbde1d230040b0a20dd7dc1a743833018c9195a1cf
 
 Package: cc.gonepaul.dockflipenhance
 Name: DockFlip 增强补丁 (RootHide)
@@ -144,28 +26,10 @@ Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Conflicts: cc.gonepaul.dockflipbadge
 Replaces: cc.gonepaul.dockflipbadge
 Architecture: iphoneos-arm64e
-Version: 0.3.2
-Installed-Size: 108
-Filename: ./DockFlipEnhance_0.3.2_iphoneos-arm64e-roothide.deb
-Size: 14234
-MD5sum: 4472a30ea4f71a8b2ab8e6a641b14713
-SHA1: a0cf940d1284b05c63f1d3852918250f19258533
-SHA256: 59a4055c0433acb32709b537a1f49c04726f8e655e16dfa970e01552f7249a15
-
-Package: cc.gonepaul.dockflipenhance.rootless
-Name: DockFlip 增强补丁 (Rootless)
-Description: All-in-one DockFlip enhancement for Dopamine Rootless iOS 16 arm64: native badge sync, bidirectional infinite dock paging, Plus landscape vertical Dock support, native SBIconView Quick Actions menu, and AppData / Choicy support.
-Maintainer: Paul
-Author: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
-Conflicts: cc.gonepaul.dockflipbadge.rootless
-Replaces: cc.gonepaul.dockflipbadge.rootless
-Architecture: iphoneos-arm64
-Version: 0.3.2
-Installed-Size: 236
-Filename: ./DockFlipEnhance_0.3.2_iphoneos-arm64-rootless.deb
-Size: 19646
-MD5sum: a342fbf0e091b419a76fee713e6144e1
-SHA1: f7059f1a84048081a4a1847561f88de72445be29
-SHA256: 767edfd446eb5b50b993ff72da75ae9ddc89b77d21de585112013a56c16bf76a
+Version: 0.3.3
+Installed-Size: 128
+Filename: debs/DockFlipEnhance_0.3.3_iphoneos-arm64e-roothide.deb
+Size: 16818
+MD5sum: 2c3a0bbcfcb0a0a1109a1ed25c093e5f
+SHA1: a4fd276998059cebb8fbebe388f04aad48385a70
+SHA256: ecf9e8e3a420dd89335bbbcf0975375c7f3e6391ef9ead0151afeba4ea382bc1
