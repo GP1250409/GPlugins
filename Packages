@@ -134,22 +134,6 @@ MD5sum: 3ef99b718749cb1b88f17d921fecec04
 SHA1: 20dd89f66cc3773ffd9c82628a7bdd0babfce06a
 SHA256: b2a7f8ba640d3ab193d7ddc9a3dc8516cc2d2285f6c94f14482b8a3a26d428ff
 
-Package: cc.gonepaul.dockflipenhance
-Name: DockFlip 增强补丁 (RootHide)
-Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (iOS 16 RootHide arm64e).
-Maintainer: Paul
-Author: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
-Architecture: iphoneos-arm64e
-Version: 0.2.4
-Installed-Size: 108
-Filename: ./DockFlipEnhance_0.2.4_iphoneos-arm64e-roothide.deb
-Size: 11720
-MD5sum: 71a1516bc415247fb733043f76bb48b6
-SHA1: 7d9a7d3cd8bacbc7c4ee0f263cbade818be29f90
-SHA256: 1fceb5408346e22636cdd40da5cbd1575b8f3b3a9edd285513744c353e911bee
-
 Package: cc.gonepaul.dockflipenhance.rootless
 Name: DockFlip 增强补丁 (Rootless)
 Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (Dopamine Rootless iOS 16 arm64).
@@ -158,10 +142,26 @@ Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Architecture: iphoneos-arm64
-Version: 0.2.4
+Version: 0.2.5
 Installed-Size: 236
-Filename: ./DockFlipEnhance_0.2.4_iphoneos-arm64-rootless.deb
-Size: 15776
-MD5sum: 57c2fc9701be25f3211297fdf2cefae7
-SHA1: d74ec67ebf6234c80292e0591568b96a942bdb72
-SHA256: bfdc1ae5da2c7f11e47fe05e0dcceba1d4e8e690a5f83b1c396148a32c07f1c2
+Filename: ./DockFlipEnhance_0.2.5_iphoneos-arm64-rootless.deb
+Size: 15832
+MD5sum: a62b13137fcd6dbf736d731e516f1eea
+SHA1: 0ac91eaeee639c3fba23f5e39b874c88786199b3
+SHA256: c1824218e0600c653516d09ae9d65c532560e9978a5b53f8740a65275452f58f
+
+Package: cc.gonepaul.dockflipenhance
+Name: DockFlip 增强补丁 (RootHide)
+Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (iOS 16 RootHide arm64e).
+Maintainer: Paul
+Author: Paul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
+Architecture: iphoneos-arm64e
+Version: 0.2.5
+Installed-Size: 108
+Filename: ./DockFlipEnhance_0.2.5_iphoneos-arm64e-roothide.deb
+Size: 11736
+MD5sum: 3411cd083b20c901af48234370244fb3
+SHA1: 6fda7c545b78723bebcfe5fed95bd11888bab40d
+SHA256: 4a8c97f1a6e2e306c73d1ee1b42a89dc86efb5fdb8f66a5a8b7653703901e5fb
