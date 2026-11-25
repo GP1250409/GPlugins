@@ -136,16 +136,16 @@ SHA256: b2a7f8ba640d3ab193d7ddc9a3dc8516cc2d2285f6c94f14482b8a3a26d428ff
 
 Package: cc.gonepaul.dockflipenhance
 Name: DockFlip 增强补丁 (RootHide)
-Description: Enhances DockFlip with bidirectional infinite dock paging, native-style long-press Quick Actions context menu, and AppData swipe-up/menu support on extra page icons (iOS 16 RootHide arm64e).
+Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (iOS 16 RootHide arm64e).
 Maintainer: Paul
 Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Architecture: iphoneos-arm64e
-Version: 0.1.0
-Installed-Size: 112
-Filename: ./DockFlipEnhance_0.1.0_iphoneos-arm64e-roothide.deb
-Size: 13998
-MD5sum: f0d8b5ef18c5d3d700aca58b3b018265
-SHA1: 514e59ace9ecc60620eec0d3cbaf57bb565ec276
-SHA256: c4b04691f173cdbc8d8c58ebb0e7a4d26ab2d1192f28e6fdea1aee46a0988cde
+Version: 0.2.0
+Installed-Size: 92
+Filename: ./DockFlipEnhance_0.2.0_iphoneos-arm64e-roothide.deb
+Size: 8166
+MD5sum: 11f811b83a9eb9dfde3f505051418e27
+SHA1: b9f0e440109a754d0474c46a1e76fce6cc7d1db7
+SHA256: c0664d934c9d6f44d879315c6c1153df546f8a75b4eed7a3f3d441e38d7b0adb
