@@ -134,34 +134,38 @@ MD5sum: 3ef99b718749cb1b88f17d921fecec04
 SHA1: 20dd89f66cc3773ffd9c82628a7bdd0babfce06a
 SHA256: b2a7f8ba640d3ab193d7ddc9a3dc8516cc2d2285f6c94f14482b8a3a26d428ff
 
-Package: cc.gonepaul.dockflipenhance
-Name: DockFlip 增强补丁 (RootHide)
-Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (iOS 16 RootHide arm64e).
-Maintainer: Paul
-Author: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
-Architecture: iphoneos-arm64e
-Version: 0.2.11
-Installed-Size: 108
-Filename: ./DockFlipEnhance_0.2.11_iphoneos-arm64e-roothide.deb
-Size: 13212
-MD5sum: 565dbd852209243ec5fdffe90dcb7012
-SHA1: 4ebcefca0e2db6e91196e1d85ee7a21fca87b27d
-SHA256: 27f80978ae12d17695b466fa298d1719b06074d85d1b15a1f62682d68e00d734
-
 Package: cc.gonepaul.dockflipenhance.rootless
 Name: DockFlip 增强补丁 (Rootless)
-Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (Dopamine Rootless iOS 16 arm64).
+Description: All-in-one DockFlip enhancement for Dopamine Rootless iOS 16 arm64: native badge sync, bidirectional infinite dock paging, Plus landscape vertical Dock support, native SBIconView Quick Actions menu, and AppData / Choicy support.
 Maintainer: Paul
 Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
+Conflicts: cc.gonepaul.dockflipbadge.rootless
+Replaces: cc.gonepaul.dockflipbadge.rootless
 Architecture: iphoneos-arm64
-Version: 0.2.11
+Version: 0.3.0
 Installed-Size: 236
-Filename: ./DockFlipEnhance_0.2.11_iphoneos-arm64-rootless.deb
-Size: 17962
-MD5sum: d2c1cd2978364dd375420f07bd2f5566
-SHA1: cd5a6088a90da8d39d63a3827082a9938ff53665
-SHA256: b8e3b82874a0f6f739d42765d02358dcee68f4b5c5372af3a393169af1f9913c
+Filename: ./DockFlipEnhance_0.3.0_iphoneos-arm64-rootless.deb
+Size: 18792
+MD5sum: 53d0c8ac9b8a8b0e6e3ebef60c23b55b
+SHA1: f7f094482fd31225c865d69cc2ace843052f92cc
+SHA256: 0ece94df6207f4a252291a4d46733eeb6992054cdd6b5627d4f895f29495ae43
+
+Package: cc.gonepaul.dockflipenhance
+Name: DockFlip 增强补丁 (RootHide)
+Description: All-in-one DockFlip enhancement for iOS 16 RootHide arm64e: native badge sync, bidirectional infinite dock paging, Plus landscape vertical Dock support, native SBIconView Quick Actions menu, and AppData / Choicy support.
+Maintainer: Paul
+Author: Paul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
+Conflicts: cc.gonepaul.dockflipbadge
+Replaces: cc.gonepaul.dockflipbadge
+Architecture: iphoneos-arm64e
+Version: 0.3.0
+Installed-Size: 108
+Filename: ./DockFlipEnhance_0.3.0_iphoneos-arm64e-roothide.deb
+Size: 13752
+MD5sum: eeea3d242b5ab452294bec88130fdea2
+SHA1: 0dacb2d87cdc7181774e5281ee42c99a1205f5ce
+SHA256: 9097845a6203612d9fd6da35619788f90b902a54ca05c6fd80c47601f22ace60
