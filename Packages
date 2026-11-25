@@ -144,13 +144,13 @@ Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Conflicts: cc.gonepaul.dockflipbadge
 Replaces: cc.gonepaul.dockflipbadge
 Architecture: iphoneos-arm64e
-Version: 0.3.3
+Version: 0.3.4
 Installed-Size: 128
-Filename: ./DockFlipEnhance_0.3.3_iphoneos-arm64e-roothide.deb
-Size: 16818
-MD5sum: 2c3a0bbcfcb0a0a1109a1ed25c093e5f
-SHA1: a4fd276998059cebb8fbebe388f04aad48385a70
-SHA256: ecf9e8e3a420dd89335bbbcf0975375c7f3e6391ef9ead0151afeba4ea382bc1
+Filename: ./DockFlipEnhance_0.3.4_iphoneos-arm64e-roothide.deb
+Size: 18430
+MD5sum: aff006aed21ca7d72914180d5f40b28a
+SHA1: 5328aba69b2a213ed63c3b198f400cbe0e02eec4
+SHA256: 75ed6c1312b05e2990f25764e9e9754a27009ea7713bd547e7ab8528fd3358bb
 
 Package: cc.gonepaul.dockflipenhance.rootless
 Name: DockFlip 增强补丁 (Rootless)
@@ -162,10 +162,10 @@ Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Conflicts: cc.gonepaul.dockflipbadge.rootless
 Replaces: cc.gonepaul.dockflipbadge.rootless
 Architecture: iphoneos-arm64
-Version: 0.3.3
+Version: 0.3.4
 Installed-Size: 272
-Filename: ./DockFlipEnhance_0.3.3_iphoneos-arm64-rootless.deb
-Size: 24266
-MD5sum: 8cb6041941a92c31739855cf3414fc50
-SHA1: 8b0ef9134222431b155866a297dfb85f97d8c3ae
-SHA256: ff1971c656f6c4399e5999cbde1d230040b0a20dd7dc1a743833018c9195a1cf
+Filename: ./DockFlipEnhance_0.3.4_iphoneos-arm64-rootless.deb
+Size: 27196
+MD5sum: 1284789d0d35f7e68d87ebb92ab0b90b
+SHA1: 7a78a0ddef9a3f84a9fcfa77745fee44cb12e06d
+SHA256: 61e9b851ae06be74c21ffc716514fb11fbf4dc2c0931f0a688e2c138e3403950
