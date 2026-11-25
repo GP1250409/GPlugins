@@ -142,13 +142,13 @@ Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Architecture: iphoneos-arm64
-Version: 0.2.9
+Version: 0.2.10
 Installed-Size: 236
-Filename: ./DockFlipEnhance_0.2.9_iphoneos-arm64-rootless.deb
-Size: 17106
-MD5sum: 9110a6d14c02787e8f7b1816babca425
-SHA1: 7d2eb91deea1f7228584d52d217678143e3edf11
-SHA256: cdd4733f82583190f5a277267e16e08f860d81cb1b9266129e3f2c94baed9b6a
+Filename: ./DockFlipEnhance_0.2.10_iphoneos-arm64-rootless.deb
+Size: 17674
+MD5sum: 9f053e7b639aa2a1989b4a89ac6f7d83
+SHA1: 036ce0769a1d206c1084d3d7e166c8da82a46fb6
+SHA256: 1839f0964bca62903cecc7ea7597cd6e0dfd205e76bc43bdfeb538cc31b2434b
 
 Package: cc.gonepaul.dockflipenhance
 Name: DockFlip 增强补丁 (RootHide)
@@ -158,10 +158,10 @@ Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Architecture: iphoneos-arm64e
-Version: 0.2.9
+Version: 0.2.10
 Installed-Size: 108
-Filename: ./DockFlipEnhance_0.2.9_iphoneos-arm64e-roothide.deb
-Size: 12598
-MD5sum: d5981ed8590c7191413bddcabb5089e8
-SHA1: 83543c238ba01fe223cd3657088d9131f79eff1a
-SHA256: 2a6fa2df9c5b255977f00035e5bf65ce5c13f8a89d79956833e6f7755e07c1d4
+Filename: ./DockFlipEnhance_0.2.10_iphoneos-arm64e-roothide.deb
+Size: 12940
+MD5sum: 9d860f249f9d4662199828fa431d322e
+SHA1: f67513ca82a3a60dbebc4648692e62d3754c6aa3
+SHA256: 8f9b5daf07dbe627c0843ba8fd78a8d0124369b4860ba27e12f266a4e6406a7c
