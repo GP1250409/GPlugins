@@ -142,10 +142,10 @@ Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Architecture: iphoneos-arm64e
-Version: 0.2.2
+Version: 0.2.3
 Installed-Size: 92
-Filename: ./DockFlipEnhance_0.2.2_iphoneos-arm64e-roothide.deb
-Size: 9096
-MD5sum: 460748c88baa57293c719bc7e7d8fa8c
-SHA1: 61ac4618358df54c22cdad6a934154f4a20ac3a4
-SHA256: a23a158793ebfe653019704ac7207112b65087dbd15acb745c381a2282461329
+Filename: ./DockFlipEnhance_0.2.3_iphoneos-arm64e-roothide.deb
+Size: 9984
+MD5sum: 08eeaf2fb9290b21b8ce9c53b815286d
+SHA1: bc28be036c079431c6efa4166c8efd499577b544
+SHA256: 56b484da1a422f593c4845a299cec791b6320ea229bf4386c157c9bcd38546fc
