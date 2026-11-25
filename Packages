@@ -134,22 +134,6 @@ MD5sum: 3ef99b718749cb1b88f17d921fecec04
 SHA1: 20dd89f66cc3773ffd9c82628a7bdd0babfce06a
 SHA256: b2a7f8ba640d3ab193d7ddc9a3dc8516cc2d2285f6c94f14482b8a3a26d428ff
 
-Package: cc.gonepaul.dockflipenhance.rootless
-Name: DockFlip 增强补丁 (Rootless)
-Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (Dopamine Rootless iOS 16 arm64).
-Maintainer: Paul
-Author: Paul
-Section: Tweaks
-Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
-Architecture: iphoneos-arm64
-Version: 0.2.10
-Installed-Size: 236
-Filename: ./DockFlipEnhance_0.2.10_iphoneos-arm64-rootless.deb
-Size: 17674
-MD5sum: 9f053e7b639aa2a1989b4a89ac6f7d83
-SHA1: 036ce0769a1d206c1084d3d7e166c8da82a46fb6
-SHA256: 1839f0964bca62903cecc7ea7597cd6e0dfd205e76bc43bdfeb538cc31b2434b
-
 Package: cc.gonepaul.dockflipenhance
 Name: DockFlip 增强补丁 (RootHide)
 Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (iOS 16 RootHide arm64e).
@@ -158,10 +142,26 @@ Author: Paul
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
 Architecture: iphoneos-arm64e
-Version: 0.2.10
+Version: 0.2.11
 Installed-Size: 108
-Filename: ./DockFlipEnhance_0.2.10_iphoneos-arm64e-roothide.deb
-Size: 12940
-MD5sum: 9d860f249f9d4662199828fa431d322e
-SHA1: f67513ca82a3a60dbebc4648692e62d3754c6aa3
-SHA256: 8f9b5daf07dbe627c0843ba8fd78a8d0124369b4860ba27e12f266a4e6406a7c
+Filename: ./DockFlipEnhance_0.2.11_iphoneos-arm64e-roothide.deb
+Size: 13212
+MD5sum: 565dbd852209243ec5fdffe90dcb7012
+SHA1: 4ebcefca0e2db6e91196e1d85ee7a21fca87b27d
+SHA256: 27f80978ae12d17695b466fa298d1719b06074d85d1b15a1f62682d68e00d734
+
+Package: cc.gonepaul.dockflipenhance.rootless
+Name: DockFlip 增强补丁 (Rootless)
+Description: Enhances DockFlip with smooth bidirectional infinite dock paging and native SBIconView long-press Quick Actions / AppData / Choicy support on extra page icons (Dopamine Rootless iOS 16 arm64).
+Maintainer: Paul
+Author: Paul
+Section: Tweaks
+Depends: ellekit | mobilesubstrate, wiki.qaq.dockflip
+Architecture: iphoneos-arm64
+Version: 0.2.11
+Installed-Size: 236
+Filename: ./DockFlipEnhance_0.2.11_iphoneos-arm64-rootless.deb
+Size: 17962
+MD5sum: d2c1cd2978364dd375420f07bd2f5566
+SHA1: cd5a6088a90da8d39d63a3827082a9938ff53665
+SHA256: b8e3b82874a0f6f739d42765d02358dcee68f4b5c5372af3a393169af1f9913c
